@@ -1,0 +1,10 @@
+{
+  "id": "full_inventory",
+  "name": "Full Inventory",
+  "description": "What the mod does, in one line.",
+  "version": "0.1.0",
+  "author": "Tutez",
+  "api": "1.0",
+  "entry": "Main",
+  "uses": []
+}
