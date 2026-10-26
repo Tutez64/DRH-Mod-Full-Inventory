@@ -1,7 +1,13 @@
 # Full Inventory
 
-A mod for [Dungeon Rampage Haxe](https://github.com/Tutez64/Dungeon-Rampage-Haxe), made from [DRH-Mods-Template](https://github.com/Tutez64/DRH-Mods-Template): [Making a mod](https://github.com/Tutez64/Dungeon-Rampage-Haxe/blob/master/docs/making-a-mod.md) gives the next steps.
+A mod for [Dungeon Rampage Haxe](https://github.com/Tutez64/Dungeon-Rampage-Haxe): see your whole inventory, even past its storage limit, with identical chests stacked into one slot.
 
 <!-- drh:show -->
-What the mod does and how to use it: the launcher shows this part on the mod's page.
+Your inventory can hold more weapons and chests than its storage limit, but the game only shows as many pages as that limit fills: the rest is out of reach. With this mod:
+- The Weapons tab has as many pages as it needs to show everything.
+- Identical chests take a single slot, with their count. Opening or abandoning one acts on one chest of the stack.
+
+This also applies to the inventory at the end of a dungeon. Chests from the dungeon that just ended stay apart.
+
+With a full inventory, the end of a dungeon lets you neither open nor keep the chests you just won. Close the chest's window with Escape (or close the game): despite the "abandoning loot" warning, the chests do go to your inventory, where you can then open them.
 <!-- /drh:show -->
