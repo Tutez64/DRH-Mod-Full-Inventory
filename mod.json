@@ -2,10 +2,10 @@
   "id": "full_inventory",
   "name": "Full Inventory",
   "description": "See your whole inventory, even past its storage limit, with identical chests stacked into one slot.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Tutez",
   "api": "1.0",
   "entry": "Main",
   "uses": ["extends"],
-  "drh": "14"
+  "drh": "14-15"
 }
